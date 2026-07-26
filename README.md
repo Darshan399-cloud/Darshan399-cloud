@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Darshan Chaudhari
 
-🚀 Passionate BCA Graduate (2026) | Aspiring Data Analyst | Cloud & Linux Enthusiast
+🚀 Passionate BCA Graduate (2026) | Aspiring Data Analyst | Cloud & Linux Enthusiast | Java Dev 
 
 - 🔭 **I’m currently working on:** Linux & Networking Journey, Data Analytics Projects, and Web Development Projects
 - 🌱 **I’m currently learning:** Linux, Networking, Docker, Kubernetes, AWS, GCP, SQL, Power BI, and Python
