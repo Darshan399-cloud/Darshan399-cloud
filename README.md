@@ -6,7 +6,7 @@
 - 🌱 **I’m currently learning:** Linux, Networking, Docker, Kubernetes, AWS, GCP, SQL, Power BI, and Python
 - 👯 **I’m looking to collaborate on:** Open Source, Cloud, Linux, Data Analytics, and Full-Stack Web Development Projects
 - 🤔 **I’m looking for help with:** Cloud Computing, and Advanced Data Analytics
-- 💬 **Ask me about:** Linux, Git & GitHub, SQL, Power BI, Web Development, Cloud Computing, and Career Guidance for Freshers
+- 💬 **Ask me about:** Linux, Git & GitHub, SQL, Power BI, Web Development, Cloud Computing
 - 📫 **How to reach me:** chaudharidarshan441@gmail.com
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I enjoy turning ideas into real projects and believe in learning something new every day.
