@@ -29,6 +29,12 @@
 ![](https://streak-stats.demolab.com/?user=Darshan399-cloud&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Darshan399-cloud&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 📦 Repository Stats
+![](https://github-readme-stats.shion.dev/api?username=Darshan399-cloud&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&show_icons=true&hide=stars,prs,issues,contribs&card_width=495)
+
+<!-- Alternative: If the above doesn't show repo count clearly, use this custom badge -->
+<!-- ![Repositories](https://img.shields.io/badge/Total%20Repositories-{REPO_COUNT}-blue?style=for-the-badge&logo=github) -->
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Darshan399-cloud&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
